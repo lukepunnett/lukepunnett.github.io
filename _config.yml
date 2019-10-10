@@ -3,7 +3,7 @@ title: punnett.Tech
 subtitle: Software Engineering Blog
 email: luke@punnett.tech
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: lukepunnett.github.io
 author:
 street_address: 1234 Somewhere Road
