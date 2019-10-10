@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Hi, my name is Luke'
+description: This is my blog on Software Engineering
 image: null
-author: null
+author: Luke Punnett
 show_tile: false
 ---
 
